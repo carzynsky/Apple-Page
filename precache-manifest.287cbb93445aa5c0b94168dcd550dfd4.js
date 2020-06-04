@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31c486b718d2c5d3b8eef833854dc8b6",
+    "revision": "5342d69070add5a619146ef410bf7d08",
     "url": "/Apple-Page/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Apple-Page/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "d3ab73d51692b3f5976e",
+    "revision": "5bb932f1435e8efe034e",
     "url": "/Apple-Page/static/css/main.f3fa142d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Apple-Page/static/js/2.ebbee8e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d3ab73d51692b3f5976e",
-    "url": "/Apple-Page/static/js/main.b641353d.chunk.js"
+    "revision": "5bb932f1435e8efe034e",
+    "url": "/Apple-Page/static/js/main.6c53a907.chunk.js"
   },
   {
     "revision": "6ca8dd5825d5e663f7da",

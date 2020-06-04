@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Apple-Page/static/css/main.f3fa142d.chunk.css",
-    "main.js": "/Apple-Page/static/js/main.b641353d.chunk.js",
-    "main.js.map": "/Apple-Page/static/js/main.b641353d.chunk.js.map",
+    "main.js": "/Apple-Page/static/js/main.6c53a907.chunk.js",
+    "main.js.map": "/Apple-Page/static/js/main.6c53a907.chunk.js.map",
     "runtime-main.js": "/Apple-Page/static/js/runtime-main.89a8c668.js",
     "runtime-main.js.map": "/Apple-Page/static/js/runtime-main.89a8c668.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Apple-Page/static/css/2.af3c1da9.chunk.css",
     "static/js/2.ebbee8e3.chunk.js": "/Apple-Page/static/js/2.ebbee8e3.chunk.js",
     "static/js/2.ebbee8e3.chunk.js.map": "/Apple-Page/static/js/2.ebbee8e3.chunk.js.map",
     "index.html": "/Apple-Page/index.html",
-    "precache-manifest.aa13fd755995eebd1aafadc66f0132c4.js": "/Apple-Page/precache-manifest.aa13fd755995eebd1aafadc66f0132c4.js",
+    "precache-manifest.287cbb93445aa5c0b94168dcd550dfd4.js": "/Apple-Page/precache-manifest.287cbb93445aa5c0b94168dcd550dfd4.js",
     "service-worker.js": "/Apple-Page/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Apple-Page/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.f3fa142d.chunk.css.map": "/Apple-Page/static/css/main.f3fa142d.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.ebbee8e3.chunk.js",
     "static/css/main.f3fa142d.chunk.css",
-    "static/js/main.b641353d.chunk.js"
+    "static/js/main.6c53a907.chunk.js"
   ]
 }
