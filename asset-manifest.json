@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Apple-Page/static/css/main.f3fa142d.chunk.css",
+    "main.js": "/Apple-Page/static/js/main.b641353d.chunk.js",
+    "main.js.map": "/Apple-Page/static/js/main.b641353d.chunk.js.map",
+    "runtime-main.js": "/Apple-Page/static/js/runtime-main.89a8c668.js",
+    "runtime-main.js.map": "/Apple-Page/static/js/runtime-main.89a8c668.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Apple-Page/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ebbee8e3.chunk.js": "/Apple-Page/static/js/2.ebbee8e3.chunk.js",
+    "static/js/2.ebbee8e3.chunk.js.map": "/Apple-Page/static/js/2.ebbee8e3.chunk.js.map",
+    "index.html": "/Apple-Page/index.html",
+    "precache-manifest.aa13fd755995eebd1aafadc66f0132c4.js": "/Apple-Page/precache-manifest.aa13fd755995eebd1aafadc66f0132c4.js",
+    "service-worker.js": "/Apple-Page/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Apple-Page/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.f3fa142d.chunk.css.map": "/Apple-Page/static/css/main.f3fa142d.chunk.css.map",
+    "static/js/2.ebbee8e3.chunk.js.LICENSE.txt": "/Apple-Page/static/js/2.ebbee8e3.chunk.js.LICENSE.txt",
+    "static/media/dark.png": "/Apple-Page/static/media/dark.3bb585ed.png",
+    "static/media/iPad.png": "/Apple-Page/static/media/iPad.849f06a4.png",
+    "static/media/iPhoneSE.png": "/Apple-Page/static/media/iPhoneSE.faa2f043.png",
+    "static/media/iphone11.png": "/Apple-Page/static/media/iphone11.e6435605.png",
+    "static/media/light.png": "/Apple-Page/static/media/light.50dea95d.png",
+    "static/media/macPro13.png": "/Apple-Page/static/media/macPro13.e4834d59.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89a8c668.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ebbee8e3.chunk.js",
+    "static/css/main.f3fa142d.chunk.css",
+    "static/js/main.b641353d.chunk.js"
+  ]
+}
