@@ -1,0 +1,47 @@
+#content
+{
+    height: 700px;
+}
+.macBookPanel1
+{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    margin-top: 80px;
+}
+.buyButton
+{
+    background-color: blueviolet;
+    border-radius: 20px;
+    border: none;
+    width: 100px;
+    position: relative;
+    transform: translateY(0px);
+}
+.buyButton:hover
+{
+    background-color: rgb(245, 62, 62);
+    border: none;
+    transform: translateY(-1px);
+}
+.linkFromButton
+{
+    color: white;
+    text-decoration: none;
+}
+.linkFromButton:hover
+{
+    color: white;
+    text-decoration: none;
+}
+.linkFromButton:active
+{
+    text-decoration: none;
+}
+.linkFromButton:visited
+{
+    text-decoration: none;
+}
+.picMac
+{
+    width: 100%;
+    height: 100%;
+}

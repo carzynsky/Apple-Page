@@ -1,0 +1,21 @@
+#contentIphone
+{
+    height: 1400px;
+}
+.iPhone11Panel
+{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    margin-top: 80px;
+}
+
+.iPhoneSEPanel
+{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    margin-top: 300px;
+}
+
+.picIphones
+{
+    width: 100%;
+    height: auto;
+}

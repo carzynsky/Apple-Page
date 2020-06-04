@@ -1,0 +1,20 @@
+#content
+{
+    height: 900px;
+}
+.iPadPanel1
+{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    margin-top: 80px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.picIPadPro
+{
+    width: 90%;
+    height: 90%;
+    /* min-width: 197px;
+    min-height: 123px; */
+}
