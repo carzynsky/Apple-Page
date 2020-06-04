@@ -34,8 +34,8 @@ function App() {
             <img onClick={toggleTheme} src={themeIcon} className='themePic' alt=''></img>        
         </div>  
         <Switch>
-          <Route exact path="/" component={() => (<Redirect to='/apple' />)} />
-          <Route exact path='/apple' exact component={Home}></Route>
+          <Route exact path="/" component={() => (<Redirect to='/apple/' />)} />
+          <Route exact path='/apple/' exact component={Home}></Route>
           <Route path='/apple/mac' component={Mac}></Route>
           <Route path='/apple/iPad' component={IPad}></Route>
           <Route path='/apple/iPhone' component={IPhone}></Route>
