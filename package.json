@@ -13,8 +13,7 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
-    "reactjs-mappletooltip": "^1.4.63",
-    "gh-pages": "^2.2.0"
+    "reactjs-mappletooltip": "^1.4.63"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -33,6 +32,9 @@
       "not dead",
       "not op_mini all"
     ],
+    "devDependencies": {
+      "gh-pages": "^2.2.0"
+    },
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
