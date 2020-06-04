@@ -34,11 +34,11 @@ function App() {
             <img onClick={toggleTheme} src={themeIcon} className='themePic' alt=''></img>        
         </div>  
         <Switch>
-          <Route exact path="/" component={() => (<Redirect to='/apple/' />)} />
-          <Route exact path='/apple/' exact component={Home}></Route>
-          <Route path='/apple/mac' component={Mac}></Route>
-          <Route path='/apple/iPad' component={IPad}></Route>
-          <Route path='/apple/iPhone' component={IPhone}></Route>
+          <Route exact path="/" component={() => (<Redirect to='/Apple-Page/' />)} />
+          <Route exact path='/Apple-Page/' exact component={Home}></Route>
+          <Route path='/Apple-Page/mac' component={Mac}></Route>
+          <Route path='/Apple-Page/iPad' component={IPad}></Route>
+          <Route path='/Apple-Page/iPhone' component={IPhone}></Route>
         </Switch>
       </Router>
     </ThemeContext.Provider>
